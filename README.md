@@ -1,7 +1,11 @@
 ### Hi there! I'm Gokul, welcome to my GitHub. 🌱
 
 <hr />
-	<a href="mailto:gokulnarayan09@gmail.com">
+<a href="https://www.linkedin.com/in/gokul-narayan-09/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a> 
+	&nbsp;
+  <a href="mailto:gokulnarayan09@gmail.com">
 	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 	</a>
 
