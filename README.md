@@ -1,4 +1,4 @@
-### Hi there! I'm Gokul, welcome to my GitHub. 🌱
+### Hi there! I'm Gokul, welcome to my GitHub. :octocat:
 
 <hr />
 <a href="https://www.linkedin.com/in/gokul-narayan-09/">
@@ -20,6 +20,8 @@ I'm a Full Stack Developer with 3+ years of experience developing web applicatio
 - ⚡ Fun fact: I love to explore anything and everything related to meditation and spirituality
 
 <br>
+
+***"There is nothing permanent except change" - Heraclitus.***
 
 <div align="center">
   <a href="https://github.com/GokulSNarayan">
