@@ -1,6 +1,5 @@
 ### Hi there! I'm Gokul, welcome to my GitHub. 🌱
 
-
 <hr />
 	<a href="mailto:gokulnarayan09@gmail.com">
 	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -9,14 +8,14 @@
 <br/>
 
 ## About Me 🚀
-I'm a Full Stack Developer with 3+ years of experience in developing web applications using React, Node.js.
-## Technologies and tools I'm familiar with:
-### Frontend:   
-React | Redux | HTML | CSS | React Native | Tailwind CSS | NextJs
-### Backend
-Node.js | Express | GraphQL | REST APIs | PostgreSQL | MongoDB
-### Programming Languages
-JavaScript | TypeScript | Python | Golang
+
+I'm a Full Stack Developer with 3+ years of experience developing web applications using React & Node.js. <br>
+- 🔭 I’m currently working on my portfolio usign React, Vite, cool animation and some creativity
+- 🌱 I’m currently learning everything that makes me better
+- 👯 I’m looking to collaborate on open source projects
+- ⚡ Fun fact: I love to explore anything and everything related to meditation and spirituality
+
+<br>
 
 <div align="center">
   <a href="https://github.com/GokulSNarayan">
@@ -24,16 +23,25 @@ JavaScript | TypeScript | Python | Golang
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulSNarayan&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
-  
-  
+
 ## ⚡ Technologies I love and use
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>  
+  
+
   
   
 <!--
@@ -49,4 +57,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
