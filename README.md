@@ -9,12 +9,19 @@
 <br/>
 
 ### About Me 🚀
-I love experiences that improve my quality of thought and widen my understanding of the world. 
+I'm a Full Stack Developer with 3+ years of experience in developing web applications using React, Node.js.
+## Technologies and tools I'm familiar with:
+# Frontend:   
+React | Redux | HTML | CSS | React Native | Tailwind CSS | NextJs
+# Backend
+Node.js | Express | GraphQL | REST APIs | PostgreSQL | MongoDB
+# Programming Languages
+JavaScript | TypeScript | Python | Golang
 
 <div align="center">
   <a href="https://github.com/GokulSNarayan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GokulSNarayan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulSNarayan&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GokulSNarayan&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulSNarayan&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
   
