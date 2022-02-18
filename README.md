@@ -8,14 +8,14 @@
 
 <br/>
 
-### About Me 🚀
+## About Me 🚀
 I'm a Full Stack Developer with 3+ years of experience in developing web applications using React, Node.js.
 ## Technologies and tools I'm familiar with:
-# Frontend:   
+### Frontend:   
 React | Redux | HTML | CSS | React Native | Tailwind CSS | NextJs
-# Backend
+### Backend
 Node.js | Express | GraphQL | REST APIs | PostgreSQL | MongoDB
-# Programming Languages
+### Programming Languages
 JavaScript | TypeScript | Python | Golang
 
 <div align="center">
@@ -30,7 +30,9 @@ JavaScript | TypeScript | Python | Golang
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>  
   
   
