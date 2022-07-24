@@ -14,8 +14,8 @@
 ## About Me 🚀
 
 I'm a Full Stack Developer with 3+ years of experience developing web applications using React & Node.js. <br>
-- 🔭 I’m currently working on my portfolio usign React, Vite, cool animation and some creativity
-- 🌱 I’m currently learning everything that makes me better
+- 🔭 Trying my hand at creative web development
+- 🌱 Learn, Unlearn and Relearn mode
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Fun fact: I love to explore anything and everything related to meditation and spirituality
 
