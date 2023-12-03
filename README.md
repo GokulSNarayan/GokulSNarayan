@@ -13,7 +13,7 @@
 
 ## About Me 🚀
 
-I'm a Full Stack Developer with 4+ years of experience developing web applications using React & Node.js. <br>
+I'm a Full Stack Developer with 5 years of experience developing web applications using React & Node.js. <br>
 - 🔭 Trying my hand at creative web development
 - 🌱 Learn, Unlearn and Relearn mode
 - 👯 I’m looking to collaborate on open source projects
