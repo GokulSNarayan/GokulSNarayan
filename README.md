@@ -13,11 +13,16 @@
 
 ## About Me 🚀
 
-I'm a Full Stack Developer with 5 years of experience developing web applications using React & Node.js. <br>
-- 🔭 Trying my hand at creative web development
-- 🌱 Learn, Unlearn and Relearn mode
-- 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I love to explore anything and everything related to meditation and spirituality
+👋 Hey there! I'm Gokul Narayan, a Full Stack Developer hailing from Bengaluru, India. <br> <br>
+ 🏃🏻 My journey in the tech world started 5 years ago when I started out as a Frontend developer. Since then, I've been on an exciting path of continuous learning and growth.<br>
+
+🌱 Outside of coding, I'm an avid learner and a volunteer at PAWS Thrissur, an animal welfare and rescue team. I'm also on a journey to learn German and explore new horizons.
+
+📚 When I'm not coding, you'll find me immersed in spiritual and self-improvement books, practicing meditation and yoga, or engaging in various sports activities.
+
+📫 Feel free to reach out to me via LinkedIn or GitHub. Let's connect and build something amazing together!
+
+
 
 <br>
 
