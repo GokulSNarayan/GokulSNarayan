@@ -15,7 +15,7 @@
   <source width="26px" height="28"  srcset="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"  media="(prefers-color-scheme: dark)"/>
   
   <!-- User has no color preference: -->
-  <img width="26px" height="28"  src=" https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+  <img width="26px" height="28"  src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
 </picture>
 </a>
 
