@@ -5,9 +5,14 @@
 <img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a> 
 	&nbsp;
-  <a href="mailto:gokulnarayan09@gmail.com">
+<a href="mailto:gokulnarayan09@gmail.com">
 	  <img align="left" width="26px" height="28"  src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" />
-	</a>
+</a>
+	&nbsp;
+<a href="https://leetcode.com/gokulnarayan09/">
+	  <img align="left" width="26px" height="28"  src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
+</a>
+
 
 <br/>
 
