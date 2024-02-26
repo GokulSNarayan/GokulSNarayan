@@ -1,17 +1,24 @@
 ### Hi there! I'm Gokul, welcome to my GitHub. :octocat:
 
 <hr />
-<a href="https://www.linkedin.com/in/gokul-narayan-09/">
+<a style="margin:0 10px;" href="https://www.linkedin.com/in/gokul-narayan-09/">
 <img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a> 
 	&nbsp;
-<a href="mailto:gokulnarayan09@gmail.com">
+<a style="margin:0 10px;" href="mailto:gokulnarayan09@gmail.com">
 	  <img align="left" width="26px" height="28"  src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" />
 </a>
-	&nbsp;
-<a href="https://leetcode.com/gokulnarayan09/">
-	  <img align="left" width="26px" height="28"  src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
+
+<a style="margin:0 10px;" href="https://leetcode.com/gokulnarayan09/">
+  <picture>
+ <!-- User prefers dark mode: -->
+  <source width="26px" height="28"  srcset="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"  media="(prefers-color-scheme: dark)"/>
+  
+  <!-- User has no color preference: -->
+  <img width="26px" height="28"  src=" https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</picture>
 </a>
+
 
 
 <br/>
