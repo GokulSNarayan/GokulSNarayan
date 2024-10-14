@@ -1,50 +1,42 @@
-### Hi there! I'm Gokul, welcome to my GitHub. :octocat:
+![👋 Hi, my name is Gokul Narayan](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<hr />
-<a style="margin:0 10px;" href="https://www.linkedin.com/in/gokul-narayan-09/">
-<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a> 
-	&nbsp;
-<a style="margin:0 10px;" href="mailto:gokulnarayan09@gmail.com">
-	  <img align="left" width="26px" height="28"  src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" />
-</a>
-
-<a style="margin:0 10px;" href="https://leetcode.com/gokulnarayan09/">
-  <picture>
- <!-- User prefers dark mode: -->
-  <source width="26px" height="28"  srcset="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"  media="(prefers-color-scheme: dark)"/>
-  
-  <!-- User has no color preference: -->
-  <img width="26px" height="28"  src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
-</picture>
-</a>
-
-
-
-<br/>
-
-## About Me 🚀
-
-👋 Hey there! I'm Gokul Narayan, a Full Stack Developer hailing from Bengaluru, India. <br> <br>
- 🏃🏻 My journey in the tech world started 5 years ago when I started out as a Frontend developer. Since then, I've been on an exciting path of continuous learning and growth.<br>
-
-🌱 Outside of coding, I'm an avid learner and a volunteer at PAWS Thrissur, an animal welfare and rescue team. I'm also on a journey to learn German and explore new horizons.
-
-📚 When I'm not coding, you'll find me immersed in spiritual and self-improvement books, practicing meditation and yoga, or engaging in various sports activities.
-
-📫 Feel free to reach out to me via LinkedIn or GitHub. Let's connect and build something amazing together!
-
-
-
-<br>
-
-***"There is nothing permanent except change" - Heraclitus.***
-
-<div align="center">
-  <a href="https://github.com/GokulSNarayan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GokulSNarayan&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulSNarayan&layout=compact&langs_count=7&theme=gradient"/>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Gokul Narayan
+      </h1>
+    </summary>
+  </ul>
 </div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="gokul.narayan09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gokul-narayan-09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 Three.js, Astro and Golang**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged an issue while I was meditating**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="Go" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="32" alt="NestJs" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="32" alt="D3.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32" alt="Vitest" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="32" alt="Supabase" style="margin-right: 4px"><img align="center" alt="TailwindCSS" height="28" style="margin-right: 4px;margin-top: -22px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GokulSNarayan&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=GokulSNarayan&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GokulSNarayan&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
 
 
 ## ⚡ Technologies I love and use
