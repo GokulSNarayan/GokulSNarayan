@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="gokul.narayan09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gokul-narayan-09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="gokul.narayan1809@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/gokul-narayan-09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
@@ -22,9 +22,35 @@
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged an issue while I was meditating**
 
- **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="Go" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="32" alt="NestJs" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="32" alt="D3.js" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32" alt="Vitest" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="32" alt="Supabase" style="margin-right: 4px"><img align="center" alt="TailwindCSS" height="28" style="margin-right: 4px;margin-top: -22px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></div>
+
+
+## ⚡ Technologies I love and use
+
+<div style="display: inline_block"><br>
+	<img style="margin: 4px" align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+	<img style="margin: 4px" align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img style="margin: 4px" align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="margin: 4px" align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img style="margin: 4px" align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+	<img style="margin: 4px" align="center" alt="Vite.js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
+  <img style="margin: 4px" align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
+  <img style="margin: 4px" align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+	<img style="margin: 4px" align="center" alt="GraphQl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+	<img style="margin: 4px" align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+	<img style="margin: 4px" align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+	<img style="margin: 4px" align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+	<img style="margin: 4px" align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+	<img style="margin: 4px" align="center" alt="TailwindCss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+	<img style="margin: 4px" align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img style="margin: 4px" align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
+	<img style="margin: 4px" align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img style="margin: 4px" align="center" alt="Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"> 
+  <img style="margin: 4px" align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img style="margin: 4px" align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> 
+  <img style="margin: 4px" align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+</div>  
+
 
  **<h3 align="left">GitHub Stats</h3>**
 
@@ -37,26 +63,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GokulSNarayan&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-
-
-## ⚡ Technologies I love and use
-
-<div style="display: inline_block"><br>
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-	<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-</div>  
   
 
   
