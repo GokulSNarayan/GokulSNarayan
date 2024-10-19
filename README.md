@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Three.js, Astro and Golang**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged an issue while I was meditating**
+- ⚡ Fun fact: **🎢 I once debugged an issue while I was drunk**
 
 
 
@@ -33,6 +33,7 @@
   <img style="margin: 4px" align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img style="margin: 4px" align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 	<img style="margin: 4px" align="center" alt="Vite.js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
+	<img style="margin: 4px" align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img style="margin: 4px" align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
   <img style="margin: 4px" align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img style="margin: 4px" align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -40,7 +41,6 @@
 	<img style="margin: 4px" align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 	<img style="margin: 4px" align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 	<img style="margin: 4px" align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-	<img style="margin: 4px" align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 	<img style="margin: 4px" align="center" alt="TailwindCss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
 	<img style="margin: 4px" align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img style="margin: 4px" align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg">
